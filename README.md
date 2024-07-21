@@ -24,10 +24,9 @@
 <a href="https://twitter.com/iamtalharazzaq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="iamtalharazzaq" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/talha-abdulrazzaq/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/talha-abdulrazzaq/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/26370664/talha-razzaq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/26370664/talha-razzaq" height="30" width="40" /></a>
-
 </p>
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=iamtalharazzaq&show_icons=true&locale=en&layout=compact" alt="iamtalharazzaq" /></p>
+<p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=iamtalharazzaq&show_icons=true&locale=en&layout=compact" alt="iamtalharazzaq" /></p>
 <p><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api?username=iamtalharazzaq&show_icons=true&locale=en" alt="iamtalharazzaq" /></p>
 <p><img width="400px" align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=iamtalharazzaq&" alt="iamtalharazzaq" /></p>
 
