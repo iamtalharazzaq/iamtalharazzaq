@@ -40,7 +40,7 @@
 <br>
 
 <div align="">
-  <img src="https://github-readme-stats.vercel.app/api?username=iamtalharazzaq&show_icons=true&theme=codeSTACKr" alt="Talha's GitHub stats">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api?username=iamtalharazzaq&show_icons=true&theme=codeSTACKr" alt="Talha's GitHub stats">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://git.io/streak-stats">
     <img src="https://streak-stats.demolab.com/?user=iamtalharazzaq&theme=dark" alt="GitHub Streak">
   </a>
