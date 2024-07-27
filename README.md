@@ -1,6 +1,6 @@
 <h1 align="center" font-size="36px">Hi 👋, I'm Talha Razzaq</h1>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&center=true&vCenter=true&multiline=true&width=1000&height=70&lines=%3E+Passionate+software+engineer+from+Lahore%2C+Pakistan)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&center=true&vCenter=true&width=1000&height=70&lines=%3E+Passionate+software+engineer+from+Lahore%2C+Pakistan)](https://git.io/typing-svg)
 
 - 🔭 I’m currently working on **improvement in AWS and microservices.**
 - 🌱 I’m currently learning **nextjs, and microservices**
