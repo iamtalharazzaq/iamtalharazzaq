@@ -15,7 +15,7 @@
 
 <h3 align="left">⚙️ Languages and Tools:</h3>
 <p align="left">
-<img src="https://skillicons.dev/icons?i=html,css,golang,bun,js,ts,tailwind,react,nextjs,nodejs,git,github,cpp,c,aws,graphql,postgres,postman,vscode,figma,npm,notion" alt="skills logos" />
+<img src="https://skillicons.dev/icons?i=html,css,golang,bun,js,ts,tailwind,react,nextjs,git,github,cpp,c,aws,graphql,postgres,postman,vscode,figma,npm,notion" alt="skills logos" />
 </p>
 
 
